@@ -1,0 +1,5 @@
+TODO:
+ - Get Urwid to import
+ - Identify a simple UI flow
+ - Code Model logic
+ - Code View logic

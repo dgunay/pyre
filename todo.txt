@@ -6,3 +6,5 @@ TODO:
 
 investigate Blessings as an alternative to Urwid
 https://github.com/erikrose/blessings
+
+Investigate Asciimatics as a cross platform alternative

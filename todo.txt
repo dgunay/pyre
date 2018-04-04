@@ -3,3 +3,6 @@ TODO:
  - Identify a simple UI flow
  - Code Model logic
  - Code View logic
+
+investigate Blessings as an alternative to Urwid
+https://github.com/erikrose/blessings

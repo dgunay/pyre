@@ -1,10 +1,12 @@
-TODO:
- - Get Urwid to import
- - Identify a simple UI flow
- - Code Model logic
- - Code View logic
-
-investigate Blessings as an alternative to Urwid
-https://github.com/erikrose/blessings
-
-Investigate Asciimatics as a cross platform alternative
+Create these:
+  README.rst
+  LICENSE
+  setup.py
+  requirements.txt
+  sample/__init__.py
+  sample/core.py
+  sample/helpers.py
+  docs/conf.py
+  docs/index.rst
+  tests/test_basic.py
+  tests/test_advanced.py

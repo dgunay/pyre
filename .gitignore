@@ -2,3 +2,5 @@
 *.gz
 /urwid-2.0.1/
 test.*
+*.json
+*.pyc

@@ -8,11 +8,11 @@ class RedditBrowserInterface(ABC):
   # TODO: method that lets you go to a Reddit post URL
   # TODO: document this method idiomatically
   @abstractmethod
-  def go_to_post(self, post_url: str):
-    pass
+  def go_to(self, url: str):
+    raise NotImplementedError
 
   # TODO: method that yields thread as a tree of comments with OP at the root
   # TODO: document this method idiomatically
   @abstractmethod
   def current_thread(self):
-    pass
+    raise NotImplementedError
